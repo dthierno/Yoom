@@ -1,6 +1,4 @@
-<div align="center">
-  <h2 align="center">A Zoom Clone</h2>
-</div>
+# Yoom - Zoom Clone
 
 ## 📋 <a name="table">Table of Contents</a>
 
